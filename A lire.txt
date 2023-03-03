@@ -1,0 +1,1 @@
+Parfois si le fichier bataille ne s'execute pas, il faut relancer donc, "./bataille" ou bien le Makefile, quelques fois ça vient au bout de deux trois fois, nous ne savons toujours pas pourquoi. 
